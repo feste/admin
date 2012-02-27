@@ -1,0 +1,17 @@
+Mayfest, a workshop that brings
+together researchers from a variety of disciplines and perspectives to discuss fundamental issues in linguistics. Over the course of two days,
+participants engage in talks and discussion sessions to stimulate new insights and collaboration. This year's workshop will center on the role of
+computational modeling in developing theories of human language.
+
+
+Theoretical and experimental research in human language has not been fully integrated with computational and mathematical approaches. At this
+year’s Mayfest, researchers in computational modeling will speak about how their work informs language cognition research and how they envision
+this integration progressing. Discussion sessions will establish common ground between modelers and other researchers in linguistics with the hope
+of achieving a higher level of collaboration between the two groups.
+
+
+We aim to foster discussion of questions that are of interest to both groups: Why is modeling an essential part of studying human language? What
+are the gaps that will need to be bridged between current theoretical or experimental interests and the state of the art in modeling? Has
+computational modeling focused on different levels of granularity than other research, and, if so, should it continue to do so? What criteria
+should be used to evaluate the utility of computational models in explaining human behavioral data? Finally, how can collections of narrow models
+describing individual phenomena be integrated into a more expansive theory of the relevant cognitive systems?
