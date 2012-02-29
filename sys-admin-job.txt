@@ -1,0 +1,71 @@
+
+
+cs department person for 2hrs per week?
+
+
+Mac, Windows, and Linux.
+
+Abilities:
+Software maintenance.
+Data backup.
+Accounts and password administration.
+Networking.
+Troubleshooting servers.
+
+Preferred Skills:
+Database Administration.
+Django.
+Experience with Mechanical Turk.
+Proficiency in a scripting language (Perl, Python, Ruby, etc.) is a plus.
+
+Other Responsibilities:
+Documentation.
+Technical support.
+
+Experience:
+
+Hours:
+
+Meet with:
+Pedro
+Alex
+Ewan
+Bill
+Daniel
+Naho
+Csilla
+Kim
+
+
+
+
+
+experimental data - central repository
+
+
+data storage - data storage system
+upload to a central system
+ordered a hard drive
+
+
+sys admin
+
+new
+basic skills
+some experience
+
+
+experiment rooms
+machines owned by department
+website help
+
+
+NO PROGRAMMER
+
+
+
+look after the other machines
+computers in the testing rooms that run out of space or don't have the right software
+
+
+all the computers or some of the computers?
